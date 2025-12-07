@@ -1,2 +1,0 @@
-# openguny
-minimalistic build system
